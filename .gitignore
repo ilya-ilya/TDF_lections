@@ -1,6 +1,7 @@
+*.dvi
+*.tex
+*.ps
+*.sty
 *.aux
-*.synctex.gz
 *.log
-photo/*
-all.out
-all.dvi
+*.out
