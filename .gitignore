@@ -1,6 +1,5 @@
 *.dvi
 *.tex
-*.ps
 *.sty
 *.aux
 *.log
